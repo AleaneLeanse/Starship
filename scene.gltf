@@ -1531,16 +1531,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Luminaris%20starship%20material_emissive.png"
+      "uri": "Luminaris%20starship%20material_emissive.png"
     },
     {
-      "uri": "textures/Luminaris%20starship%20material_normal.png"
+      "uri": "Luminaris%20starship%20material_normal.png"
     },
     {
-      "uri": "textures/Luminaris%20starship%20material_metallicRoughness.png"
+      "uri": "Luminaris%20starship%20material_metallicRoughness.png"
     },
     {
-      "uri": "textures/Luminaris%20starship%20material_baseColor.png"
+      "uri": "Luminaris%20starship%20material_baseColor.png"
     }
   ],
   "materials": [
